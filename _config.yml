@@ -7,7 +7,7 @@ plugins:
 title: YC's Blog
 description: YC's Blog
 keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
+author: YC
 footerText: ''
 
 # 这些不要动
@@ -24,7 +24,7 @@ domainUrl: 'https://blog.tmaize.net'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/86335
+#tucaoUrl: https://support.qq.com/product/86335
 
 # 菜单
 # 必填字段 title: '文本' url: '链接'
@@ -36,8 +36,6 @@ menu:
     url: /pages/categories.html
   - title: 搜索
     url: /pages/search.html
-  - title: 留言
-    url: /pages/chat.html
   - title: 关于
     url: /pages/about.html
 
