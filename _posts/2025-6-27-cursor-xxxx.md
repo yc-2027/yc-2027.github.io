@@ -1,7 +1,7 @@
 ---
 layout: mypost
-title: 标题
-categories: [分类1, 分类2]
+title: 使用cursor学习大模型应用开发
+categories: [cursor, ai]
 ---
 文章内容，Markdown格式
 
