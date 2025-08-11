@@ -1,3 +1,10 @@
+---
+layout: mypost
+title: LangChain 01：Runnable
+categories: [LangChain, Framework, Agent]
+---
+
+
 - Langchain langgraph的agent总结
 
 基本正确，但有两点细化下就更准了：
