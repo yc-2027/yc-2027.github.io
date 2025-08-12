@@ -1,9 +1,11 @@
 ---
 layout: mypost
-title: LangChain 01：Runnable
+title: LangChain 02：Agent
 categories: [LangChain, Framework, Agent]
 ---
 
+* 所有内置Agent
+* LangGraph prebuilt react_agent
 
 - Langchain langgraph的agent总结
 
