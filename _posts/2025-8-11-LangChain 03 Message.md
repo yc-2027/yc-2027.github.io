@@ -19,3 +19,15 @@ categories: [LangChain, Framework, Agent]
 ## ChatPromptTemplate
 
 
+# 花括号解析问题
+
+# 原来的（会触发模板解析）
+executor_prompt_tpl = ChatPromptTemplate.from_messages([
+    ("system", executor_prompt.format(past_steps=past_steps_str, current_step=current_plan_str)),
+    ("placeholder", "{messages}")
+])
+# 花括号解析报错
+
+```python
+LangChain 03：Message解析
+```
