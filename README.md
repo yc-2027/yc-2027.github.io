@@ -1,6 +1,5 @@
-2025/08/11
-[Multi-Agent System 01 Plan and Execute](https://yc-2027.github.io/posts/2025/08/11/Multi-Agent-System-01-Plan&Execute.html)
-Multi Agent SystemAgent
+- 2025/08/11 [Multi-Agent System 01 Plan and Execute](https://yc-2027.github.io/posts/2025/08/11/Multi-Agent-System-01-Plan&Execute.html)  Tags: Multi-Agent System, Agent
+
 2025/08/11
 LangChain 01：Runnable
 LangChainFrameworkAgent
@@ -16,3 +15,4 @@ cursorai
 2025/06/27
 Ragflow源码阅读与实战
 RagflowRAGAgent
+
