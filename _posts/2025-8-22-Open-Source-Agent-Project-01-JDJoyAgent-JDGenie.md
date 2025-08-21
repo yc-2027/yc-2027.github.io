@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: Open Source Agent Project 01-JDJoyAgent-JDGenie
+title: Open-Source Agent Project 01-JDJoyAgent-JDGenie
 categories: [Multi Agent System, Agent,Open Source Agent Project]
 ---
 # 整体（后端）架构
