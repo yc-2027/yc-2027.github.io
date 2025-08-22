@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: LangChain 02：Agent
-categories: [LangChain, Framework, Agent]
+categories: [LangChain, Framework]
 ---
 
 * 所有内置Agent
