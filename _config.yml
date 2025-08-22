@@ -52,6 +52,10 @@ extMath: false
 # 显示访问量统计，由不蒜子提供服务
 extCount: true
 
+future: true
+timezone: Asia/Singapore
+
 # 友情链接
 # links:
   
+
