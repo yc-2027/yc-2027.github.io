@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: Open-Source Agent Project 01-JDJoyAgent-JDGenie
+title: Open-Source Agent Project 02-JDJoyAgent-JDGenie
 categories: [Open-Source Project]
 date: 2025-08-22 00:05:00 +0000
 ---
