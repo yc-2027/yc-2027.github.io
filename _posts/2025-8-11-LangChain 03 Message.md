@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: LangChain 03：Message解析
-categories: [LangChain, Framework, Agent]
+categories: [LangChain, Framework]
 ---
 ## Table of Contents
 - [Message](#message)
