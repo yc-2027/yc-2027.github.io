@@ -4,6 +4,7 @@ title: Open-Source Agent Project 01-JDJoyAgent-JDGenie
 categories: [Multi Agent System, Agent,Open Source Agent Project]
 date: 2025-08-22 00:05:00 +0000
 ---
+
 # 整体（后端）架构
 
 - genie-backend\src\main\java\com\jd\genie\config\GenieController
