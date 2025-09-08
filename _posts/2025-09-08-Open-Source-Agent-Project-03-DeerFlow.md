@@ -6,7 +6,7 @@ date: 2025-09-08
 ---
 # 整体架构
 
-![image.png](attachment:fb78d1f9-dfd3-4326-9d8a-b603723cb62b:image.png)
+![image.png](https://github.com/yc-2027/yc-2027.github.io/blob/master/static/img/deerflow.png)
 
 
 ## plan & execute
